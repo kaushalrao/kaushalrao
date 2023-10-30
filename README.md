@@ -3,7 +3,7 @@
 
 I am a Full Stack Software Developer. I am passionate about technologies and love to learn new things.
 
-### 🔭 Have a look at my [website](https://kaushalrao.github.io/portfolio/).
+### 🔭 Have a look at my [website](https://kaushalrao.github.io/portfolio/)
 
 
 ## ⚡ Tech Stack
